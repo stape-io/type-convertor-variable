@@ -1,8 +1,10 @@
 # Type Convertor Variable for Google Tag Manager Server Container
 
-## How to use Type Convertor Variable
+## Type Convertor Variable description
 
-TBD
+Type Convertor Variable for server Google Tag Manager is useful when you have data in one type but need it in another type, such as converting a string into an integer.
+
+This variable ensures that the data is transformed into the desired format, paving the way for more accurate and effective data handling in the GTM server-side tagging environment.
 
 ## Open Source
 
