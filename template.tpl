@@ -42,13 +42,15 @@ ___TEMPLATE_PARAMETERS___
         "displayValue": "String"
       }
     ],
-    "simpleValueType": true
+    "simpleValueType": true,
+    "help": "Choose the type to witch your value/variable will be converted."
   },
   {
     "type": "TEXT",
     "name": "value",
     "displayName": "Value",
-    "simpleValueType": true
+    "simpleValueType": true,
+    "help": "Set the value or variable that will be converted to the desired type."
   }
 ]
 
