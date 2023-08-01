@@ -1,4 +1,6 @@
 homepage: "https://stape.io/"
 versions:
+  - sha: 4008079aaefd6c0cf0ff7f0f246f03e04557adda
+    changeNotes: Add help.
   - sha: 4c281045553e062ab5287a204461629d0fd5774a
     changeNotes: Initial release.
