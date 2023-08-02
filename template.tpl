@@ -43,7 +43,7 @@ ___TEMPLATE_PARAMETERS___
       }
     ],
     "simpleValueType": true,
-    "help": "Choose the type to witch your value/variable will be converted."
+    "help": "Choose the type to which your value/variable will be converted."
   },
   {
     "type": "TEXT",
