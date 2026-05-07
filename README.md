@@ -9,3 +9,6 @@ This variable ensures that the data is transformed into the desired format, pavi
 ## Open Source
 
 Type Convertor Variable for GTM Server is developing and maintained by [Stape Team](https://stape.io/) under the Apache 2.0 license.
+
+### GTM Gallery Status
+🟢 [Listed](https://tagmanager.google.com/gallery/#/owners/stape-io/templates/type-convertor-variable)
